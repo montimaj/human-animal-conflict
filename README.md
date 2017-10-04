@@ -7,7 +7,7 @@ Assignment Proposal: https://goo.gl/N8Qiwz
 
 ![Alt text](/Dehradun_Map_New.png?raw=true "Human_Animal_Conflict_Zones")
 
-###Map Legend
+## Map Legend
 * Red - High conflict zone
 * Yellow - Medium conflict zone
 * Green - Low conflict zone
