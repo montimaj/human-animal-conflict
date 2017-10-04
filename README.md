@@ -5,15 +5,13 @@ All human habitable zones have been considered in this case, e.g, Agriculture, I
 
 Assignment Proposal: https://goo.gl/N8Qiwz
 
-Assignment Presentation: https://goo.gl/J7iqqD
-
 ## Human habitable zones & Forest Map
 
-![Alt text](/Dehradun_Map_Human.png?raw=true "Human_Forests")
+![Alt text](/maps/Dehradun_Map_Human.png?raw=true "Human_Forests")
 
 
 ## Human-animal conflict zones
-![Alt text](/Dehradun_Map.png?raw=true "Human_Animal_Conflict_Zones")
+![Alt text](/maps/Dehradun_Map.png?raw=true "Human_Animal_Conflict_Zones")
 
 ### Map Legend
 * Red - High conflict zone
@@ -22,3 +20,4 @@ Assignment Presentation: https://goo.gl/J7iqqD
 * Black - High population
 * Deep Brown - Medium Population
 * Light brown - Low population
+* Deep green - Forest
